@@ -4,3 +4,6 @@
 [submodule "ddd-rust-template"]
 	path = ddd-rust-template
 	url = https://github.com/maronfranc/ddd-rust-template
+[submodule "ddd-node-template"]
+	path = ddd-node-template
+	url = https://github.com/maronfranc/ddd-node-template

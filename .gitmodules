@@ -1,3 +1,6 @@
 [submodule "ddd-golang-template"]
 	path = ddd-golang-template
 	url = https://github.com/maronfranc/ddd-golang-template
+[submodule "ddd-rust-template"]
+	path = ddd-rust-template
+	url = https://github.com/maronfranc/ddd-rust-template

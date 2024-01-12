@@ -7,3 +7,6 @@
 [submodule "ddd-node-template"]
 	path = ddd-node-template
 	url = https://github.com/maronfranc/ddd-node-template
+[submodule "ddd-java-template"]
+	path = ddd-java-template
+	url = https://github.com/maronfranc/ddd-java-template
